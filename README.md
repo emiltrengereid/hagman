@@ -1,2 +1,0 @@
-# hagman
-subtheme
